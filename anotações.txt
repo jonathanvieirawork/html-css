@@ -1,0 +1,57 @@
+incones : https://www.iconarchive.com
+
+envelpar : ctrl + shift + P
+p n sair do seu site, mas abrir uma nova tela: target="_blank"
+
+geralmente em site sempre se ultiliza 16px nas letras. (fontes)
+
+site: 
+nav : para menus
+header : para cabeçalho
+main: conteudo principal
+section: para assuntos 
+
+designer css3:
+
+exemplo de paragrafo 
+main p {
+        margin: 15px 0px;
+        text-align: justify;
+        text-indent: 30px;
+        font-size: 1em;
+        line-height: 2em;
+
+
+line-height: 1em; (Altura entre linhas)
+text-indent: 30px; ( recuo de texto, tipo paragrafo)
+transition-duration: .5s; ( Transição quando passar o mouse em cima)
+font-weight: bold; ( Negrito) 
+
+ text-shadow: 2px 2px 0px black; (Sombra no texto)
+
+
+Cabeçalho
+
+header{
+     background-image: linear-gradient(to bottom .... ( Leyout gradiente)
+    min-height: 150px;   (altura de Cabeçalho)
+    text-align: center;    (Centralizar texto)
+   padding-top: 40px;  ( Afastamento da borda de cima )
+   margin-bottom: 20px;   ( Afastamento da borda de baixo)
+
+main{
+        box-shadow: 0px 0px 10px black;    (sombra leyout)
+        padding: 20px;   (Afastamendo de borda laterais)
+        background-color: white;    ( fundo de tela)
+        min-width: 300px;       ( padrão de tam tela)
+        max-width: 800px;     ( padrão de tam tela)
+        margin: auto;      (margem automatica)
+        margin-bottom: 30px;     (afastamento de margem roda pé)
+        border-radius: 10px;       ( Arredondar Borda)
+
+ ( centralizar imagens) 
+main img.pequena{
+        width: 50%;
+        display: block;
+        margin: auto;
+
