@@ -1,0 +1,51 @@
+@charset "UTF-8"
+
+*{
+    height: 100%;
+}
+
+body {
+font-family: 'work sans','Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+/* 
+medidas absolutas
+cm, mm, in (polegada), px,pt,pc
+ 16px = 1em 
+
+
+medidas Relativas
+em, ex, rem, vw,vh, %
+
+*/
+
+/*font-size: 16px;
+font-weight:100;
+font-style: normal ;
+/* font-weigth = Peso da fonte 
+ligther ( magro), normal, bold (gordo) bolder (negrito)
+
+*/
+}
+
+/* 
+OBS: DIFERENÇA ENTRE FONTES::
+
+FONT- SIZE = TAMANHO PADRÃO DA FONTE (16px ou 1em)
+
+FONT-FAMILY = MODIFICAÇÃO DE FONTE ( PADRÃO ARIAL ) 
+*/
+
+
+h1{
+    
+    font-family: 'work sans', sans-serif;
+    font-weight: bolder;
+    font-size: 2em;
+    font-style: italic; 
+
+    /* shorthand font = usar tudo em 1 linha só, porem tem que ser seguido a ordem: font-style + font-weigth+ font-size+ font-family.
+    
+    Ex cod:
+     font: italic bolder 3em 'work sans', sans-serif';  
+    */
+    
+}

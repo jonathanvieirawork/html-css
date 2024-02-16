@@ -1,0 +1,27 @@
+@charset
+@charset
+
+@import url('https://fonts.googleapis.com/css2?family=Kaushan+Script&family=Work+Sans:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,700;1,800;1,900&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Kaushan+Script&family=Work+Sans:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,700;1,800;1,900&display=swap');
+
+body{
+font-family: Arial, Helvetica, sans-serif;
+font-size: 16px;
+color: rgb(0, 0, 0);
+}
+
+h1{
+font-weight: bolder;
+font-family: 'Kaushan Script', cursive;
+font-family: 'Work Sans', sans-serif;
+font-size: 3em;
+
+}
+h2 {
+    
+font-family: 'kaushan Script'serif ;
+font-size: 3em;
+}
+
+

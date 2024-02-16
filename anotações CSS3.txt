@@ -1,0 +1,27 @@
+CSS Especificações :
+
+width = tamanho do ''quadrado'', "retangulo" : ex = 400px; 
+padding = espaçoes internos do texto da borda. ex = 10px;
+margin = alinhamento do quadrado com texto = 	auto; (automatico)
+border = borda 
+border - radius = Borda redonda. ex: 15px
+background-position = posição da imagem de fundo. ex: top cima, 
+bottom baixo, direita esquerda.
+background-repeat: no-repeat; = não repetir as imagens de fundo
+background-size: cover; = automatização do tamanho da imagem 
+obs: sempre usar essa config no body do sistema.
+height: 100vh; = usar para imagem ficar sempre completa
+obs: sempre usar no body do sistema .
+column-count = quantidade de fotos do em colunas uma do lado da outra. ex: column-count: 4;
+gap = Afastamento de uma linha p outra
+EXEMPLOS DESSA AULA CAP 19 AULA 05 CURSO EM VIDEOS !!!
+
+ background-size: cover;
+ background-attachment: fixed; = combinação com imagem fixada + rolagem do conteudo 
+
+atalhos para body (Shorthand) Regrinha:
+
+background: color  > img > Position > repeat > attachment  
+
+ex:   background: black  url(imagens/wallpaper002.jpg)   center center   no-repeat   fixed;
+ex:  Cap 19 Aula 06
